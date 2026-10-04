@@ -1,6 +1,10 @@
 # Olá, eu sou o MonteiroDev 👋
 
-Profissional e entusiasta de tecnologia com foco em **Infraestrutura de Redes**, **Administração de Sistemas Linux** e **Engenharia de Defesa (Blue Team)**. Dedicado a diagnosticar anomalias, auditar ambientes digitais e implementar políticas estritas de segurança para garantir a resiliência de dados no mundo real.
+Profissional e entusiasta de tecnologia com foco em **Infraestrutura de Redes**, **Administração de Sistemas Linux**, **Banco de Dados** e **Engenharia de Defesa (Blue Team)**. Dedicado a diagnosticar anomalias, auditar ambientes digitais e implementar políticas estritas de segurança para garantir a resiliência de dados no mundo real.
+
+## Habilidades <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>  </p>
+
+
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Sistemas Operacionais:** Linux (Mint / Ubuntu / Debian-based Hardening)
